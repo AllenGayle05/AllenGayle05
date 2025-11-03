@@ -25,8 +25,8 @@
 
 ### 📫 How to reach me
 - ✉️ **allengayle.ai@gmail.com**
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 🧑‍💻 [Portfolio Website](https://your-portfolio-link)
+- 🌐 [LinkedIn](www.linkedin.com/in/allen-gayle-b31789270)  
+  
 
 ---
 
