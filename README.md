@@ -1,43 +1,64 @@
 <h1 align="center">Hi 👋, I'm Allen Gayle</h1>
 <h3 align="center">AI & Data Science Student | Developer | Innovator</h3>
 
-🔹 B.Tech in Artificial Intelligence and Data Science @ Karunya University  
-🔹 Passionate about AI, Deep Learning, and Full-Stack Development  
-🔹 Exploring Data Analytics, Stock Market Prediction & Cybersecurity Projects  
-
----
-
-### 🛠️ Languages and Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,react,fastapi,js,html,css,tailwind,git,mysql,vscode" />
+  🎓 B.Tech Artificial Intelligence & Data Science @ Karunya University <br>
+  💻 Passionate about AI, Cybersecurity & Web Development <br>
+  🚀 Exploring React, Python, and Machine Learning
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### 🔭 Currently Working On
+- Building Data Analytics & ETL Projects
+- Exploring React.js and FastAPI
+- Learning Cloud & Deployment
+
+---
+
+### 🌱 Currently Learning
+- React.js & TypeScript  
+- Cybersecurity concepts  
+- Data Visualization Tools (Power BI, Tableau)
+
+---
+
+### 📫 How to reach me
+- ✉️ **allengayle.ai@gmail.com**
+- 🌐 [LinkedIn](https://www.linkedin.com/in/your-link)  
+- 🧑‍💻 [Portfolio Website](https://your-portfolio-link)
+
+---
+
+### 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AllenGayle&show_icons=true&theme=tokyonight" alt="Allen's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllenGayle&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=python,react,typescript,html,css,js,mysql,git,github,figma,vscode,linux" />
 </p>
 
 ---
 
-### 🌱 Currently Learning:
-- Advanced Deep Learning (LSTM, CNN)
-- FastAPI & React Integration
-- AI-based Financial Market Prediction  
-
----
-
-### 📫 Connect With Me:
+### 📊 GitHub Stats
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:yourmail@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" height="40" width="40" /></a>
-  <a href="https://github.com/AllenGayle" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react" alt="allen stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=react" alt="allen streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react" alt="allen top languages" />
 </p>
 
 ---
 
-### ⚡ Fun Fact:
-> “Data beats intuition — but insight beats data.”
+### 💼 Experience
+**Frontend Developer Intern @ JLK Technology**
+- Collaborated with a team of 4 using Git and GitHub  
+- Built three responsive websites using **React.js**, **TypeScript**, and **Material UI**  
+- Developed an **Asset Management System** with API integration to streamline company operations  
 
+---
+
+### ⚡ Fun Fact
+> I love solving real-world problems with data and building things that make an impact!
