@@ -24,7 +24,7 @@
 ---
 
 ### 📫 How to reach me
-- ✉️ **allengayle.ai@gmail.com**
+- ✉️ **allengayle05@gmail.com**
 - 🌐 [LinkedIn](www.linkedin.com/in/allen-gayle-b31789270)  
   
 
