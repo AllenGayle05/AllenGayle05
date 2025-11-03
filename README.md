@@ -10,23 +10,32 @@
 ---
 
 ### 🔭 Currently Working On
-- Building Data Analytics & ETL Projects
-- Exploring React.js and FastAPI
-- Learning Cloud & Deployment
+- Building Data Analytics & ETL Projects  
+- Exploring React.js and FastAPI  
+- Learning Cloud & Deployment  
 
 ---
 
 ### 🌱 Currently Learning
 - React.js & TypeScript  
-- Cybersecurity concepts  
-- Data Visualization Tools (Power BI, Tableau)
+- Cybersecurity Concepts  
+- Data Visualization Tools (Power BI, Tableau)  
 
 ---
 
-### 📫 How to reach me
-- ✉️ **allengayle05@gmail.com**
-- 🌐 [LinkedIn](www.linkedin.com/in/allen-gayle-b31789270)  
-  
+### 💼 Experience
+**Frontend Developer Intern – JavaScript Development (Online) | EI Systems**  
+- Completed an internship focused on advanced **JavaScript** and front-end web development  
+- Built multiple interactive and responsive web projects using **HTML**, **CSS**, and **JavaScript**  
+- Gained hands-on experience in **DOM manipulation**, **API integration**, and **event handling**  
+- Collaborated virtually using **Git** and **GitHub** for version control and project management  
+- Improved debugging, optimization, and problem-solving skills through mentor-guided sessions  
+
+---
+
+### 📫 How to Reach Me
+- ✉️ **allengayle05@gmail.com**  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/allen-gayle-b31789270)
 
 ---
 
@@ -39,29 +48,18 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react" alt="allen stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=allengayle05&show_icons=true&theme=tokyonight" alt="Allen's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=react" alt="allen streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allengayle05&theme=tokyonight" alt="Allen's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react" alt="allen top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allengayle05&layout=compact&theme=tokyonight" alt="Allen's Top Languages" />
 </p>
-
----
-
-### 💼 Experience
-Frontend Developer Intern – JavaScript Development (Online) | EI Systems
-• Completed an online internship focused on advanced JavaScript and front-end web development.
-• Built multiple interactive and responsive web projects using HTML, CSS, and JavaScript.
-• Gained practical experience in DOM manipulation, API integration, and event handling.
-• Collaborated virtually using Git and GitHub for version control and project management.
-• Enhanced debugging, code optimization, and problem-solving skills through mentor-guided sessions.
-
 
 ---
 
 ### ⚡ Fun Fact
-> I love solving real-world problems with data and building things that make an impact!
+> I love solving real-world problems with data and building projects that make an impact 🚀
