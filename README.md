@@ -53,10 +53,13 @@
 ---
 
 ### 💼 Experience
-**Frontend Developer Intern @ JLK Technology**
-- Collaborated with a team of 4 using Git and GitHub  
-- Built three responsive websites using **React.js**, **TypeScript**, and **Material UI**  
-- Developed an **Asset Management System** with API integration to streamline company operations  
+Frontend Developer Intern – JavaScript Development (Online) | EI Systems
+• Completed an online internship focused on advanced JavaScript and front-end web development.
+• Built multiple interactive and responsive web projects using HTML, CSS, and JavaScript.
+• Gained practical experience in DOM manipulation, API integration, and event handling.
+• Collaborated virtually using Git and GitHub for version control and project management.
+• Enhanced debugging, code optimization, and problem-solving skills through mentor-guided sessions.
+
 
 ---
 
