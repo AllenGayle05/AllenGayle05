@@ -46,20 +46,5 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=allengayle05&show_icons=true&theme=tokyonight" alt="Allen's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allengayle05&theme=tokyonight" alt="Allen's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allengayle05&layout=compact&theme=tokyonight" alt="Allen's Top Languages" />
-</p>
-
----
-
 ### ⚡ Fun Fact
 > I love solving real-world problems with data and building projects that make an impact 🚀
